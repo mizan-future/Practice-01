@@ -9,6 +9,3 @@ function number(){
 btn.addEventListener('click', function(){
     body.style.background = `rgba(${number()}, ${number()}, ${number()})`    
 });
-button.addEventListener('click', function(){
-    body.style.background = `rgba(${number()}, ${number()}, ${number()})`    
-});
